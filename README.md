@@ -3,6 +3,7 @@
 This project was developed as part of the Digital Image Processing course in the Computer Engineering Department at Adnan Menderes University. The aim of the project is to wirelessly control a robot car using hand gestures detected in real-time via a camera.
 
 [![Project Test Video - Classroom](https://img.youtube.com/vi/vu64colVOqY/0.jpg)](https://youtu.be/vu64colVOqY)
+
 *Final project test in the classroom. See the "Visuals and Videos" section below for more videos.*
 
 ## Overview
