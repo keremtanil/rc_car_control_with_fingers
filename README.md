@@ -124,4 +124,4 @@ The system detects the user's hand using a camera connected to a computer. Using
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.md). (Remember to add a `LICENSE.md` file to your project. MIT is a good starting point.)
+This project is licensed under the [MIT License](LICENSE.md).
